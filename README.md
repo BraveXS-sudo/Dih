@@ -41,8 +41,8 @@
 ---
 
 ## Installation
-Make sure you have dependecies,install via mediafire it exceeds limit on git,cd into it use ls to see install etc script,run both install and setup_rules script
-Install Link:https://www.mediafire.com/folder/a73zuhyoitlbe/DihMouse
+Make sure you have dependecies,install via mediafire it exceeds limit on git also unzip it,cd into it use ls to see install etc script,run both install and setup_rules script
+Install Link:https://www.mediafire.com/file/n7zxuoqp4xdkncz/DihMouse.zip/file
 * After running the scripts, **log out and log in** (or reboot).
 * Dih🥀 will be added as a desktop entry — you can now launch it from your application menu.
 
