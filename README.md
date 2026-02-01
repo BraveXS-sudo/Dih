@@ -63,6 +63,7 @@ Dih🥀 is fully open-source. Feel free to fork, submit issues, or create pull r
 
 
 
+<img width="505" height="668" alt="Screenshot_20260201_234347" src="https://github.com/user-attachments/assets/74992970-8809-4ff1-a289-68b6d19746c0" />
 
 
 
