@@ -62,4 +62,9 @@ Make sure you have dependecies,clone repo,cd into it,run both install and setup_
 Dih🥀 is fully open-source. Feel free to fork, submit issues, or create pull requests. Let’s make this tool even better together!
 
 
-If you want, I can also make a **super fun, slightly cheeky version** that leans into the “slang / playful” vibe but still looks professional for GitHub — would you like me to do that next?
+
+
+
+
+
+
